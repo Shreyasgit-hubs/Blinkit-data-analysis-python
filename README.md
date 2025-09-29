@@ -40,22 +40,22 @@ Visualizations generated to answer:
 ## 🖼️ KPI-Based Visualizations
 
 ### 1. Total Sales by Fat Content
-![Total Sales by Fat Content](images/total_sales_by_fat_content.png)
+![Total Sales by Fat Content](images/sales_by_fat_content.png)
 
 ### 2. Total Sales by Item Type
-![Total Sales by Item Type](images/total_sales_by_item_type.png)
+![Total Sales by Item Type](images/total_sales_by_items.png)
 
 ### 3. Fat Content by Outlet Type
-![Fat Content by Outlet Type](images/fat_content_by_outlet_type.png)
+![Fat Content by Outlet Type](images/outlet_tire_by_item_fat_content.png)
 
 ### 4. Total Sales by Outlet Establishment Year
-![Total Sales by Outlet Establishment Year](images/total_sales_by_outlet_establishment_year.png)
+![Total Sales by Outlet Establishment Year](images/outlet_establishment.png)
 
 ### 5. Sales by Outlet Size
-![Sales by Outlet Size](images/sales_by_outlet_size.png)
+![Sales by Outlet Size](images/outlet_size.png)
 
 ### 6. Sales by Outlet Location Type
-![Sales by Outlet Location Type](images/sales_by_outlet_location_type.png)
+![Sales by Outlet Location Type](images/sales_by_outlet_locetion_type.png)
 
 ---
 
