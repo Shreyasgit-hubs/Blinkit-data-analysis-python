@@ -39,6 +39,9 @@ Visualizations generated to answer:
 
 ## 🖼️ KPI-Based Visualizations
 
+### Final Analysis
+![Final analysis](images/final_analysis.jpg)
+
 ### 1. Total Sales by Fat Content
 ![Total Sales by Fat Content](images/sales_by_fat_content.png)
 
