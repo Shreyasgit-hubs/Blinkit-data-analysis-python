@@ -22,7 +22,7 @@ This project follows a typical data analysis workflow:
 Here are some of the charts and visual summaries produced:
 
 - **Sales by Fat Content**  
-  ![Sales by Fat Content](images/fat_content_pie.png)
+  ![Sales by Fat Content](images/fat content pie.png)
 
 - **Total Sales by Item Type**  
   ![Sales by Item Type](images/item_type_sales.png)
